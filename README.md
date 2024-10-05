@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Baris. I'm an engineer student at Ankara. Eager to dive into coding world. Currently learning Python.
+
+Long term goal for me is to develop skills in the machine learning / ai area. Just started. 
+
+- 🌱 I’m currently learning Python!
+- 📫 How to reach me: through the public e-mail in my profile
+- 😄 Pronouns: he/him

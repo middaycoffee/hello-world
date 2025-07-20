@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My name is Baris. I'm an engineer student at Ankara. Eager to dive into coding world. Currently learning Python.
+Hello! My name is Baris. I'm an engineering student studying at Ankara. Eager to dive into coding world. Currently learning Python.
 
-Long term goal for me is to develop skills in the machine learning / ai area. Just started. 
+Long term goal for me is to develop skills in the machine learning / ai area. Just started. Until now I've completed some online certificate courses and now trying to enhance my learning through self-learning projects. 
 
 - 🌱 I’m currently learning Python!
 - 📫 How to reach me: through the public e-mail in my profile
